@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class CustomerModule {
 	@Test
 	public void createCampaign() {
-Reporter.log("Campaign has been created", true);
+Reporter.log("Campaign", true);
 	}
 }

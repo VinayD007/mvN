@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-26T11:04:23 IST" name="Suite" finished-at="2025-06-26T11:04:24 IST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2025-06-26T11:04:23 IST" name="Test" finished-at="2025-06-26T11:04:24 IST" duration-ms="96">
+      <class name="com.CRM.testscripts.CustomerModule">
+        <test-method signature="createCampaign()[pri:0, instance:com.CRM.testscripts.CustomerModule@179ece50]" started-at="2025-06-26T11:04:24 IST" name="createCampaign" finished-at="2025-06-26T11:04:24 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaign -->
+      </class> <!-- com.CRM.testscripts.CustomerModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
